@@ -10,3 +10,4 @@
 9. test_add_book_in_favorites_new_books_in_favorites Проверяем, что книга добавленая в список книг фоворитов, действительно находится там
 10. test_delete_book_from_favorites_remove_new_books_in_favorite Тест проверяет, что добавленная книга в список фаворитов, а затем удаленная от туда, больше там не находится
 11. test_get_list_of_favorites_books_have_books И в финалочке, мы проверяем что книги добавленные в список избранных книг, действительно находятся в этом списке
+12. test_get_book_genre_book_away_genre Книга присутствует в коллекции
